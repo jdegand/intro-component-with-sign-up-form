@@ -1,6 +1,63 @@
-# intro-component-with-sign-up-form
-Frontend Mentor Challenge - Intro Component with Sign-Up Form
+# Frontend Mentor - Intro component with sign up form solution
 
-[Frontend Mentor](https://www.frontendmentor.io/challenges/intro-component-with-signup-form-5cf91bd49edda32581d28fd1)
+This is a solution to the [Intro component with sign up form challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/intro-component-with-signup-form-5cf91bd49edda32581d28fd1). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
-[Live Link](https://jdegand.github.io/intro-component-with-sign-up-form/)
+## Table of contents
+
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+  - [Continued development](#continued-development)
+  - [Useful resources](#useful-resources)
+
+## Overview
+
+### The challenge
+
+Users should be able to:
+
+- View the optimal layout for the site depending on their device's screen size
+- See hover states for all interactive elements on the page
+- Receive an error message when the `form` is submitted if:
+  - Any `input` field is empty. The message for this error should say *"[Field Name] cannot be empty"*
+  - The email address is not formatted correctly (i.e. a correct email address should have this structure: `name@host.tld`). The message for this error should say *"Looks like this is not an email"*
+
+### Screenshot
+
+![](./signup-screenshot-desktop.png)
+
+![](./signup-screenshot-mobile.png)
+
+![](./signup-screenshot-mobile-bottom-half.png)
+
+### Links
+
+- Live Site URL: [Github Pages](https://jdegand.github.io/intro-component-with-sign-up-form/)
+
+## My process
+
+### Built with
+
+- CSS custom properties
+- Flexbox
+
+### What I learned
+
+- Before and after elements are inconsistent on input elements because they are semi-replaced elements.
+
+### Continued development
+
+- Semantic HTML5 markup
+- Accessibility
+- (mobile) Should have added padding/margin to bottom of the body
+
+### Useful resources
+
+- [MDN Docs](https://developer.mozilla.org/en-US/docs/Learn/Forms/Form_validation) - Client-side form validation
+- [Stack Overflow](https://stackoverflow.com/questions/2587669/can-i-use-a-before-or-after-pseudo-element-on-an-input-field) - INputs and pseudo-elements
+- [Web Platform News](https://webplatform.news/issues/2020-08-26) - Semi-replaced elements
+- [Blog](https://adamsilver.io/blog/form-design-multiple-inputs-versus-one-input/) - Multiple inputs vs one 
