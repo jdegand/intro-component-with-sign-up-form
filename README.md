@@ -58,6 +58,6 @@ Users should be able to:
 ### Useful resources
 
 - [MDN Docs](https://developer.mozilla.org/en-US/docs/Learn/Forms/Form_validation) - Client-side form validation
-- [Stack Overflow](https://stackoverflow.com/questions/2587669/can-i-use-a-before-or-after-pseudo-element-on-an-input-field) - INputs and pseudo-elements
+- [Stack Overflow](https://stackoverflow.com/questions/2587669/can-i-use-a-before-or-after-pseudo-element-on-an-input-field) - Inputs and pseudo-elements
 - [Web Platform News](https://webplatform.news/issues/2020-08-26) - Semi-replaced elements
 - [Blog](https://adamsilver.io/blog/form-design-multiple-inputs-versus-one-input/) - Multiple inputs vs one 
